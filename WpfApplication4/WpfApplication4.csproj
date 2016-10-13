@@ -39,6 +39,10 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>D:\src\TFS\MAIN\Crm\Shared\Shared Binaries\DevExpress.Xpf.Core.v16.1.dll</HintPath>
     </Reference>
+    <Reference Include="DevExpress.Xpf.Ribbon.v16.1, Version=16.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\DevExpress 16.1\Components\Bin\Framework\DevExpress.Xpf.Ribbon.v16.1.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
